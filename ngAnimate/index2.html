@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en-US" ng-app="app">
+<head>
+  <meta charset="UTF-8">
+  <title>ngAnimation - simple animation sulotion for angularjs</title>
+
+  <script src="js/angular.min.js"></script>
+
+  <!-- ngAnimation -->
+  <script src="js/angular-animate.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/ng-animation.css">  
+  <!-- /ngAnimation -->
+  
+  <script src="js/app2.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" href="css/fontello/css/fontello.css">  
+    
+  <link href='https://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+
+  
+</head>
+<body ng-controller="AppController">
+
+	<button ng-click="faireTourner()">faire un effet css</button>
+	
+  
+  
+  <div class=" item-container item" >
+	<div class="item flip-in" ng-show="x.isShow" ng-repeat="x in mesToDos">
+	{{x.name}}
+	</div>
+  </div>
+  
+  
+  
+	
+
+</body>
+</html>

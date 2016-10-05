@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html lang="en-US" ng-app="app">
+<head>
+  <meta charset="UTF-8">
+  <title>ngAnimation - simple animation sulotion for angularjs</title>
+
+  <script src="js/angular.min.js"></script>
+
+  <!-- ngAnimation -->
+  <script src="js/angular-animate.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/ng-animation.css">  
+  <!-- /ngAnimation -->
+  
+  <script src="js/app2.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" href="css/fontello/css/fontello.css">  
+    
+  <link href='https://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+
+  
+</head>
+<body ng-controller="AppController">
+
+	<header>
+		<h2>Angularjs ngAnimation <small>by Julien</small></h2>
+	</header>
+
+<button ng-click="toggle()">Animation</button>
+
+	<div class="item-container">
+    <div class="item slide-left" ng-repeat="x in todo" ng-show="x.isShow">
+      {{x.name}}
+    </div>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\exploded-aar\MonApp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\MonApp-runtime-unspecified_1abb6e0a33800deb97ed09ddc52a2aec0c961669.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-24.1.1_807e0d0071ad1ba5df24dc542975bd5ca8b2b79f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_79610331376436c85b4a6137dba3e8e633863871.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-24.1.1_ac284b4a2bf7873f9fcbe1084da10c344c95c269.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gary\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-24.1.1_a52b5d3024b747fa59d2a47a2b6ec2e21805574a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-24.1.1_06eabdaa8475158879b4acf0f4930db8022294e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\exploded-aar\MonApp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_988edc3e10b78afbc02c8044a01df60babe6b779.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.1.1_c22c1d08592d0dff14245518d4d5f3826b093865.jar" />
+    </item>
+    <item
+        jar="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Gary\Developer\progetscript\INF1048-16A\Gary\MonApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-24.1.1_300899fe41b576fadd43fe6f52a0595e6e780c74.jar" />
+    </item>
+
+</items>

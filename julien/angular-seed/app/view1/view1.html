@@ -1,0 +1,30 @@
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<div class="container">
+<div class="row">
+
+    <div class="well">
+        <div>
+            Bienvenue<br/>{{error}}
+        </div>
+    </div>
+</div>
+
+
+<div class="container text-center">
+    <div class="span12">
+        <form>
+        User name:<br>
+        <input type="text" name="userName" value="" id="userName" ng-model="userName">
+        <br>
+        password:<br>
+        <input type="password" name="userPsw" value="" id="userPsw" ng-model="userPsw">
+        <br><br>
+        <button id="myLoginButton" ng-click="buttonTapLogin()">connectez-vous</button>
+        </form>
+  </div>
+</div>
+</div>
